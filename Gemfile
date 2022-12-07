@@ -35,3 +35,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Set theme
 gem "jekyll-theme-minimal"
+
+gem "webrick", "~> 1.7"
