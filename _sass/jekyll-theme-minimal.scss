@@ -205,8 +205,8 @@ hr {
 footer {
   width:270px;
   float:left;
-  position:fixed;
-  bottom:50px;
+  position:absolute;
+  bottom:10px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -244,6 +244,32 @@ footer {
     top:52px;
   }
 }
+
+.item{
+  position: relative;
+  border: 2px solid #001e1d;
+  transition: height 1s, background-color 1s, color 1s;
+  width: 200px;
+  height: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.item:hover{
+  height: 100px;
+  background-color: #ffd803;
+  color: black;
+}
+
+.item-text{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
 
 @media print, screen and (max-width: 720px) {
   body {
