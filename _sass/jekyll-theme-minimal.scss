@@ -189,8 +189,8 @@ section {
   width:500px;
   float:right;
   padding-bottom:50px;
-  position: relative;
-  top: 80px;
+  position: static;
+  padding-top: 75px;
 }
 
 small {
@@ -221,7 +221,7 @@ footer {
 
   header, section, footer {
     float:none;
-    position:absolute;
+    position:static;
     width:auto;
   }
 
