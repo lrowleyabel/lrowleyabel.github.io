@@ -22,7 +22,7 @@ This is a selection of projects I am or have been involved with.
 
 <h1>AIM-CISC</h1>
 
-<p>I am a Research Assistant at the University of Edinburgh on AIM-CISC - Artificial Intelligence and Multimorbidity: Clustering in Individuals, Space and Clinical Context. This project is examining patterns in multimorbidity - what combinations of conditions tend to occur in people and how is that influenced by individual-level, geographical and clinical factors?</p>
+<p>I am a Research Assistant at the University of Edinburgh on <a href="https://www.ed.ac.uk/usher/primary-care-multimorbidity/projects/artificial-intelligence-and-multimorbidity-cluster">AIM-CISC - Artificial Intelligence and Multimorbidity: Clustering in Individuals, Space and Clinical Context</a>. This project is examining patterns in multimorbidity - what combinations of conditions tend to occur in people and how is that influenced by individual-level, geographical and clinical factors?</p>
 
 <p>I work on modelling how social aspects of an individual's neighbourhood might affect the probability of becoming multimorbid, particularly looking at issues such as social cohesion and loneliness.</p>
 
@@ -32,6 +32,6 @@ This is a selection of projects I am or have been involved with.
 
 <h1>Digital Society Project</h1>
 
-<p>I worked at the University of Nottingham, creating and analysing a dataset on the French 2022 parliamentary elections for the Digital Society Project. The dataset collected together Twitter data from all candidates in the election in order to analyse online rhetoric and campaigning practices. Against the backdrop of the success of far-right politicians in France, the data is being used to examine hate speech and nationalist language in political messaging.</p>
+<p>I worked at the University of Nottingham, creating and analysing a dataset on the French 2022 parliamentary elections for the <a href = "http://digitalsocietyproject.org/">Digital Society Project</a>. The dataset collected together Twitter data from all candidates in the election in order to analyse online rhetoric and campaigning practices. Against the backdrop of the success of far-right politicians in France, the data is being used to examine hate speech and nationalist language in political messaging.</p>
 
 </div>
